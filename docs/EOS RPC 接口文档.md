@@ -8,7 +8,7 @@ eg:
 
 返回结果：
 
-```
+```json
 { "server_version": "b2eb1667", "head_block_num": 259590, "last_irreversible_block_num": 259573, "head_block_id": "0003f60677f3707f0704f16177bf5f007ebd45eb6efbb749fb1c468747f72046", "head_block_time": "2017-12-10T17:05:36", "head_block_producer": "initp", "recent_slots": "1111111111111111111111111111111111111111111111111111111111111111", "participation_rate": "1.00000000000000000" }
 ```
 
@@ -28,7 +28,7 @@ eg:
 
 返回结果：
 
-```
+```json
 {
   "previous": "0000000445a9f27898383fd7de32835d5d6a978cc14ce40d9f327b5329de796b",
   "timestamp": "2017-07-18T20:16:36",
@@ -51,7 +51,7 @@ eg:
 
 请求结果：
 
-```
+```json
 {
   "name": "inita",
   "eos_balance": "999998.9574 EOS",
@@ -99,7 +99,7 @@ eg:
 
 请求结果：
 
-```
+```json
 {
   "name":"currency",
   "code_hash":"a1c8c84b4700c09c8edb83522237439e33cf011a4d7ace51075998bd002e04c9",
